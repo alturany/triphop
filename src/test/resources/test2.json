@@ -1,0 +1,32 @@
+{
+  "array": [
+    {
+      "type": 5
+    },
+    {
+      "type": "Type F",
+      "object": {
+        "array2": [
+          10,
+          null,
+          [
+            {
+              "type": "Type A"
+            },
+            {
+              "type": "Type B"
+            }
+          ],
+          [
+            {
+              "type": "Type C"
+            },
+            {
+              "type": "Type D"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

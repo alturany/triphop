@@ -1,0 +1,28 @@
+{
+  "type": "Type A",
+  "array": [
+    {
+      "type": "Type B"
+    },
+    {
+      "type": "Type F"
+    }
+  ],
+  "obj": {
+    "type": "Type C",
+    "childObj": {
+      "type": "Type D",
+      "childArr": [
+        {
+          "type": "Hello World"
+        },
+        {
+          "notAType": "Skip"
+        },
+        {
+          "type": "End of chain"
+        }
+      ]
+    }
+  }
+}
